@@ -7,7 +7,7 @@
 body {
     background: rgb(213, 225, 239);
 }
-.main {
+main {
     display: flex;
     align-items: center;
     justify-content: center;
